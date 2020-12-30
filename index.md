@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# 项目培训
 
-You can use the [editor on GitHub](https://github.com/563Wang/future/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 一、项目角色：
+### ①商务			
+### ②建模主管		
+	建模助理	
+	建模技术员  
+### ③详图主管		
+	详图助理	
+	详图技术员  
+		
+## 二、培训流程：
+### 时间：2020.01.04
+	0.创建用户
+	1.各主管按照业务流程逐个培训
+	2.各主管对每条记录进行操作（商务创建10条，建模抢单3+3+3，详图操作3条）
+	3.各主管对操作账号及技术员账号权限进行确认
+	
+### 时间：2020.01.05
+	1.确认角色权限
+	2.问题沟通确认
+	3.无问题添加
+		
+## 三、培训业务：
+### 管理员：（1人）
+	0.创建角色、添加权限
+	1.创建用户
+	2.绑定角色
+	3.添加数据权限
+	
+### 商务：（全：2人）
+	1.确认权限
+	2.添加业主
+	3.添加项目
+	4.添加项目（6条）
+	  +添加 变更修订单
+	5.置顶抢单
+	6.查看进度
+	7.命名规则记录
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/563Wang/future/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 建模主管（3人）+建模助理（3人）
+	1.确认自己权限，和技术员权限
+	2.抢单
+	3.开始项目
+	4.维护进度
+	5.增加出图要求
+	6.维护工程进度信息
+		
+### 详图主管（1人）+详图助理（1人）
+	1.确认自己权限，和技术员权限
+	2.开始项目
+	3.维护进度
+	4.增加出图范围
+	5.维护模型问题清单
+		
+## 四、所需准备资料：
+	1.角色权限对照表
+	2.功能问题记录
+	3.注意事项记录表
