@@ -12,7 +12,7 @@
 ### 本日学习内容
 ---
 《认识了解手机和计算机的CPU》  
->1.请观看科普视频(https://www.bilibili.com/video/BV1Qt411U7wD)，   
+>1.请观看[科普视频](https://www.bilibili.com/video/BV1Qt411U7wD)，   
 &nbsp;&nbsp;&nbsp;并记录你认为重要的内容；   
 2.查找自己的手机、计算机的CPU型号，并记录查找过程；   
 3.思考除了CPU，手机和计算机还有哪些部分是十分重要的，并记下思考结果；	
